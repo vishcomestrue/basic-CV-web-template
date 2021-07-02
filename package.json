@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/vishcomestrue/basic-CV-web-template/issues"
   },
-  "homepage": "https://github.com/vishcomestrue/basic-CV-web-template#readme"
+  "homepage": "https://github.com/vishcomestrue/basic-CV-web-template#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.2.6",
+    "postcss": "^8.3.5",
+    "tailwindcss": "^2.2.4"
+  }
 }
